@@ -11,19 +11,19 @@ Make sure you have installed the following software :
 
 1. Clone This Repository
 ```bash
-    git clone https://github.com/bujangkuu/api-automation-sanber
+    git clone https://github.com/bujangkuu/kasiraja-tugas-apiautomation
 ```
 2. Navigate to the folder
 ```bash
-    cd Automation-JVac-Cypress
+    cd kasiraja-tugas-apiautomation
 ```
 3. Install depencdencier
 ```bash
-    Install depencdencier
+   npm install
 ```
 4. Run the project
 ``` bash 
-    npm run cypress
+    npm run mocha
 ```
 ![image1](https://github.com/bujangkuu/api-automation-sanber/blob/main/evidance/image1.png)
-![image2](https://github.com/bujangkuu/api-automation-sanber/blob/main/evidance/image2.png)
+![image2](https://github.com/bujangkuu/kasiraja-tugas-apiautomation/blob/main/evidence/image2.png)
