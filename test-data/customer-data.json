@@ -1,0 +1,26 @@
+{
+    "createSuccess": {
+        "name": "Kodir",
+        "phone": "081234567890",
+        "address": "Bandoeng",
+        "description": "Kodir anak Pak Edi"
+    },
+    "createFailed": {
+        "name": "",
+        "phone": "081234567890",
+        "address": "Bandoeng",
+        "description": "Kodir anak Pak Edi"
+    },
+    "updateSuccess": {
+        "name": "Kodirs",
+        "phone": "081234567890",
+        "address": "Bandoeng",
+        "description": "Kodir anak Pak Edi"
+    },
+    "updateFailed": {
+        "name": "",
+        "phone": "081234567890",
+        "address": "Bandoeng",
+        "description": "Kodir anak Pak Edi"
+    }
+}
