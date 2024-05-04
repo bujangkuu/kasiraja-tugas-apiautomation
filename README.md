@@ -25,5 +25,5 @@ Make sure you have installed the following software :
 ``` bash 
     npm run mocha
 ```
-![image1](https://github.com/bujangkuu/api-automation-sanber/blob/main/evidance/image1.png)
+![image1](https://github.com/bujangkuu/kasiraja-tugas-apiautomation/blob/main/evidence/image1.png)
 ![image2](https://github.com/bujangkuu/kasiraja-tugas-apiautomation/blob/main/evidence/image2.png)
